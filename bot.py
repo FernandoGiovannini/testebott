@@ -1,3 +1,5 @@
+
+
 from core import Watcher
 from config import TOKEN, CHAT_ID_LIST, URL_SEARCH_LIST
 from telegram.ext import Updater, CommandHandler
